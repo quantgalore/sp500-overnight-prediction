@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep 18 11:55:53 2023
+Created in 2023
 
-@author: Local User
+@author: Quant Galore
 """
 import numpy as np
 import math
