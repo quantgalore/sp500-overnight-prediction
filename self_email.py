@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Sep 19 14:38:28 2023
+Created in 2023
 
-@author: Local User
+@author: Quant Galore
 """
 import smtplib
 
